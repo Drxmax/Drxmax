@@ -1,7 +1,7 @@
 # Olá, eu sou o Adriano Neves Andrade! 👋
 
 <p align="center">
-  Especialista e instrutor na área de segurança privada, com ampla vivência em todos os segmentos do setor. Sou apaixonado por liderar equipes, aplicar treinamentos e garantir a excelência operacional.
+  Especialista e instrutor na área de segurança privada, com ampla vivência em todos os segmentos do setor. Sou apaixonado por liderar equipes, tenho também experiência em aplicar treinamentos e garantir a excelência operacional.
   <br><br>
   💼 Atualmente, atuo como vigilante líder na Graber Segurança.
 </p>
