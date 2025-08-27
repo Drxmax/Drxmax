@@ -63,13 +63,10 @@ Minha motivação é aplicar minha vasta experiência no campo da segurança pri
 </p>
 
 <p align="center">
-  <a href="URL_LINKEDIN">
+  <a href="https://www.linkedin.com/in/adriano-n-andrade-b6051772/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="URL_GITHUB">
+  <a href="https://github.com/Drxmax/Drxmax">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
