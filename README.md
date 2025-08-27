@@ -1,4 +1,4 @@
-ém# Olá, eu sou o Adriano Neves Andrade! 👋
+# Olá, eu sou o Adriano Neves Andrade! 👋
 
 <p align="center">
   Especialista e instrutor na área de segurança privada, com ampla vivência em todos os segmentos do setor. Sou apaixonado por liderar equipes, tendo também experiência em aplicar treinamentos e garantir a excelência operacional.
